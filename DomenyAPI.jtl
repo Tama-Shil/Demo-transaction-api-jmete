@@ -1,0 +1,9 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1722775304190,98,AdminLogin,200,OK,Thread Group 1-1,text,true,,617,314,1,1,http://dmoney.roadtocareer.net/user/login/,89,0,38
+1722775304340,41,Create Agent,201,Created,Thread Group 1-1,text,true,,604,614,1,1,http://dmoney.roadtocareer.net/user/create,41,0,0
+1722775304385,40,Create Customer,201,Created,Thread Group 1-1,text,true,,607,617,1,1,http://dmoney.roadtocareer.net/user/create,40,0,0
+1722775304426,62,Deposti To Agent,201,Created,Thread Group 1-1,text,true,,444,537,1,1,http://dmoney.roadtocareer.net/transaction/deposit,62,0,0
+1722775304489,67,Deposti To Customer,201,Created,Thread Group 1-1,text,true,,437,543,1,1,http://dmoney.roadtocareer.net/transaction/deposit,67,0,0
+1722775304558,33,Customer Balance Check,200,OK,Thread Group 1-1,text,true,,377,440,1,1,http://dmoney.roadtocareer.net/transaction/balance/01714141577,33,0,0
+1722775304593,39,Withdraw By Customer,201,Created,Thread Group 1-1,text,true,,429,543,1,1,http://dmoney.roadtocareer.net/transaction/withdraw,39,0,0
+1722775304634,46,Payment By Customer,201,Created,Thread Group 1-1,text,true,,428,542,1,1,http://dmoney.roadtocareer.net/transaction/payment,46,0,0
